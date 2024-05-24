@@ -5,8 +5,8 @@
 </h2>
 
 ```console
-# nohup python /path/auto.py &
-# chmod +x auto.py or /path/auto.py
-# suggested location to /var/tmp/
-# for commands ?cmd=ls
+nohup python /path/auto.py &
+chmod +x auto.py or /path/auto.py
+suggested location to /var/tmp/
+for commands ?cmd=ls
 ```
